@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/iscamen/arca/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/com/iscamen/arca/model/RespuestaCae.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/com/iscamen/arca/service/AfipFacturaService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/com/iscamen/arca/util/AfipXmlParser.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/com/iscamen/arca/util/CertificateManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/com/iscamen/arca/wsaa/AfipWsaaClient.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
